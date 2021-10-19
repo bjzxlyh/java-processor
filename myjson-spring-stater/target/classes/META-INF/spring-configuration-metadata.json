@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "lyh.json",
+      "type": "com.lyh.myjson.config.MyJsonProperties",
+      "sourceType": "com.lyh.myjson.config.MyJsonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "lyh.json.name",
+      "type": "java.lang.String",
+      "sourceType": "com.lyh.myjson.config.MyJsonProperties"
+    }
+  ],
+  "hints": []
+}
